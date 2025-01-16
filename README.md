@@ -1,1 +1,1 @@
-# oct2024_data_week11
+In this assignment we are asked to obtain information from articles on the web pertaining to Mars using a web scraping technique. Furthermore, we were asked to analyze the data from a Mars weather table; to determine the highest and lowest temperatures and atmospheric pressures recorded on Mars.
